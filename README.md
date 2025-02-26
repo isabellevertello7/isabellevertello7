@@ -1,16 +1,16 @@
-## Hi there 👋
+## Isabelle vertello
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:isabellevertello.costa@gmail.com)](mailto:isabellevertello.costa@gmail.com)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&lin[k=https://api.whatsapp.com/send?phone=5531985341952&text=Hi!)](https://api.whatsapp.com/send?phone=5581984434580&text=Hi!)
 
-<!--
-**isabellevertello7/isabellevertello7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Ola, sou isabelle vertello, estudante de analise e desenvolvimento de sistema.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :books: I’m currently learning,javascript
+- :computer: Techs: javascript
+
+----
+Credits: https://github.com/isabellevertello7
+
+
+
+Last Edited on: 25/02/2025
